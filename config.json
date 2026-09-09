@@ -1,11 +1,11 @@
 {
   "username": "ho3-win",
   "name": "Hossein Sheikhi",
-  "role": "Full-stack developer and AI automation builder",
+  "role": " developer and AI automation builder",
   "location": "Iran · from Tehran",
   "status": "Building products that turn ambitious ideas into useful systems.",
   "website": "https://avanex.ir",
   "focus": "AI agents · Next.js · product design",
-  "skills": ["Next.js", "TypeScript", "Python", "n8n", "Figma", "Solidity"],
+  "skills": ["C++", "VHDL", "Python", "n8n", "Wordpress", "Seo"],
   "featured_repos": ["Zeropoint-website", "Jenesyx-Website", "TodoList", "404Error-page"]
 }
