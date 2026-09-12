@@ -8,8 +8,8 @@
 
 <br><br>
 
-<a href="https://artabidkhori.com"><img src="https://img.shields.io/badge/ENTER_PORTFOLIO-ff4d3d?style=for-the-badge&labelColor=171012" alt="Portfolio" /></a>
-<a href="https://github.com/Jenesyx"><img src="https://img.shields.io/badge/OPEN_GITHUB-ff8a1f?style=for-the-badge&logo=github&logoColor=fff4e6&labelColor=171012" alt="GitHub" /></a>
+<a href="https://avanex.ir"><img src="https://img.shields.io/badge/ENTER_PORTFOLIO-ff4d3d?style=for-the-badge&labelColor=171012" alt="Portfolio" /></a>
+<a href="https://github.com/ho3-win"><img src="https://img.shields.io/badge/OPEN_GITHUB-ff8a1f?style=for-the-badge&logo=github&logoColor=fff4e6&labelColor=171012" alt="GitHub" /></a>
 <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/CONNECT-ffc857?style=for-the-badge&logo=linkedin&logoColor=171012&labelColor=171012" alt="LinkedIn" /></a>
 
 <br>
